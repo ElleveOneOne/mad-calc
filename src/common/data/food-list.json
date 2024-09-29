@@ -121,8 +121,8 @@
           "danish": "Svinemørbrad",
           "nutrition": {
             "measureBy": "g",
-            "calories": 130,
-            "fat": 4.9,
+            "calories": 434,
+            "fat": 1,7
             "carbs": 0.5,
             "protein": 21
           }
@@ -195,9 +195,9 @@
           }
         },
         {
-          "name": "Yoghurt (Cheesy 0.1%)",
+          "name": "Yoghurt (Cheasy 0.1%)",
           "id": "45",
-          "danish": "Yoghurt (Cheesy 0.1%)",
+          "danish": "Yoghurt (Cheasy 0.1%)",
           "nutrition": {
             "measureBy": "g",
             "calories": 40,
@@ -231,7 +231,7 @@
           }
         },
         {
-          "name": "Grated cheese (Cheesy 13%)",
+          "name": "Grated cheese (Cheay 13%)",
           "id": "48",
           "danish": "Revet ost (Cheasy 13%)",
           "nutrition": {
@@ -252,6 +252,30 @@
             "fat": 0.9,
             "carbs": 4.9,
             "protein": 5.7
+          }
+        },
+        {
+          "name": "Sliced Cheese (Cheasy 13%)",
+          "id": "40",
+          "danish": "Mellemlagret Ost (Cheasy 13%)",
+          "nutrition": {
+            "measureBy": "g",
+            "calories": 231,
+            "fat": 13,
+            "carbs": 0.5,
+            "protein": 25
+          }
+        },
+        {
+          "name": "Citronfromage (Dr. Oetker)",
+          "id": "4011",
+          "danish": "Citronfromage (Dr. Oetker)",
+          "nutrition": {
+            "measureBy": "g",
+            "calories": 155,
+            "fat": 7.1,
+            "carbs": 20
+            "protein": 2.1
           }
         }
       ]
